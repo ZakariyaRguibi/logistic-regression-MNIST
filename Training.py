@@ -18,5 +18,5 @@ testdata = [item[1:] for item in test]
 testlabel = [item[0] for item in test]
 
 
-filename = 'trained/logi-reg-10000.sav'
+filename = 'model/logi-reg-10000.sav'
 pickle.dump(logisticRegr, open(filename, 'wb'))
