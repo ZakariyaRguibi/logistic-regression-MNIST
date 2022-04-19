@@ -20,13 +20,15 @@ it contains also 2 main folders:
 
 This process is only valid for a native python environment, and not a Conda environment.
 
-## Step 1 Clone the git repo
+## Step 1 Clone the git repo and unzip the dataset
 
 Open terminal, and run the following :
 
 ```bash
 git clone https://github.com/ZakariyaRguibi/logistic-regression-MNIST.git
 ```
+
+after that, unzip the dataset so that the mnist_test.csv and mnist_train.csv are in the dataset folder
 
 ## Step 2 :Create a python virtual environment
 

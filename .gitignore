@@ -1,4 +1,4 @@
 .venv
-dataset/compressed
+dataset/*.csv
 __pycache__
 .ipynb_checkpoints/*
