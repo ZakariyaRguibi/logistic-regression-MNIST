@@ -124,6 +124,12 @@ for more information about Jupyter, visit [jupyter.org/install](https://jupyter.
 
 go to dataset folder, and unzip the dataset
 
-## Credit and usefull resources
+# Resources
 
 [Python Virtual Environments](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
+
+# Credit
+
+This repo is created and maintained by Rguibi Zakaria, for ENSA safi 4th year mini project module.
+
+This work is under the [WTFPL](http://www.wtfpl.net/about/) public license
