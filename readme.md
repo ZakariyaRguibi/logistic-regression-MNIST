@@ -9,10 +9,12 @@ it contains 3 main files:
 
 it contains also 2 main folders:
 
-- **dataset** : contains the dataset in a csv form, downloaded from [here](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download)
+- **dataset** : contains the dataset in a csv form zipped, make sure to unzip the archive before running the code, downloaded from [here](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download)
 - **model** : path where your models will be exported, by default it contains 2 trained models, with default parameters, the only difference is the max_iterations, where:
   - logi-reg-100.sav have a max iteration of 100
   - logi-reg-10000.sav have a max iteration of 10000
+
+---
 
 # Installation:
 
@@ -23,7 +25,7 @@ This process is only valid for a native python environment, and not a Conda envi
 Open terminal, and run the following :
 
 ```bash
-git clone PLACEHOLDER
+git clone https://github.com/ZakariyaRguibi/logistic-regression-MNIST.git
 ```
 
 ## Step 2 :Create a python virtual environment
@@ -69,8 +71,6 @@ source .venv/bin/activate
 # Windows
 .venv\Scripts\activate
 ```
-
----
 
 ### **Using native python**
 
@@ -120,15 +120,14 @@ jupyter-lab
 
 for more information about Jupyter, visit [jupyter.org/install](https://jupyter.org/install)
 
+### Step 4 : unzip the dataset
+
+go to dataset folder, and unzip the dataset
+
+---
+
 ## Credit and usefull resources
 
 ---
 
 [Python Virtual Environments](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
-
-````
-
-```
-
-```
-````
