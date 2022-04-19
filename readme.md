@@ -126,6 +126,4 @@ go to dataset folder, and unzip the dataset
 
 ## Credit and usefull resources
 
----
-
 [Python Virtual Environments](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
