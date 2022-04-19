@@ -124,8 +124,6 @@ for more information about Jupyter, visit [jupyter.org/install](https://jupyter.
 
 go to dataset folder, and unzip the dataset
 
----
-
 ## Credit and usefull resources
 
 ---
