@@ -134,4 +134,4 @@ go to dataset folder, and unzip the dataset
 
 This repo is created and maintained by Rguibi Zakaria, for ENSA safi 4th year mini project module.
 
-This work is under the [WTFPL](http://www.wtfpl.net/about/) public license
+This work is under the MIT public license
